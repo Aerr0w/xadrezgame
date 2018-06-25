@@ -1,1 +1,1 @@
-# xadrezgame
+# Jogo de xadrez em C#
